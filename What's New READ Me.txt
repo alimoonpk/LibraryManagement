@@ -1,0 +1,40 @@
+Default Password is "moonsolutions"
+
+v5.0
+*Fixed Delete Issue
+
+v4.0
+*Fixed taking Input space between name
+
+v3.0
+*Change Current Password
+*Improved UI
+
+v2.0
+*Fixed Added Issue Books by current date for 15 days
+*Improved UI/UX
+
+
+V1.1
+
+1. Password Protected
+
+2.  Add Books
+In 6 Categories
+
+3. Delete Books
+
+4. Search Books
+a)	Search by ID
+b)	Search by Book Name
+
+5.  Issue Books
+
+a)	Issue a book
+b)	View Issued Books
+c)	Search Issued Books
+d)	Remove Issued Books
+
+6. View Saved Books
+
+7. Edit Books
